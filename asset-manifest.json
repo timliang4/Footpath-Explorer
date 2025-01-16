@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/timliang4/Footpath-Explorer/static/css/main.323d7611.css",
-    "main.js": "/timliang4/Footpath-Explorer/static/js/main.bb62a2a2.js",
-    "static/js/488.3676e1a3.chunk.js": "/timliang4/Footpath-Explorer/static/js/488.3676e1a3.chunk.js",
-    "index.html": "/timliang4/Footpath-Explorer/index.html",
-    "main.323d7611.css.map": "/timliang4/Footpath-Explorer/static/css/main.323d7611.css.map",
-    "main.bb62a2a2.js.map": "/timliang4/Footpath-Explorer/static/js/main.bb62a2a2.js.map",
-    "488.3676e1a3.chunk.js.map": "/timliang4/Footpath-Explorer/static/js/488.3676e1a3.chunk.js.map"
+    "main.css": "/Footpath-Explorer/static/css/main.323d7611.css",
+    "main.js": "/Footpath-Explorer/static/js/main.e6a4990b.js",
+    "static/js/488.3676e1a3.chunk.js": "/Footpath-Explorer/static/js/488.3676e1a3.chunk.js",
+    "index.html": "/Footpath-Explorer/index.html",
+    "main.323d7611.css.map": "/Footpath-Explorer/static/css/main.323d7611.css.map",
+    "main.e6a4990b.js.map": "/Footpath-Explorer/static/js/main.e6a4990b.js.map",
+    "488.3676e1a3.chunk.js.map": "/Footpath-Explorer/static/js/488.3676e1a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.bb62a2a2.js"
+    "static/js/main.e6a4990b.js"
   ]
 }
