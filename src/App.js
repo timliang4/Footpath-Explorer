@@ -96,7 +96,7 @@ function App() {
     <div>
       <h1>Footpath Explorer</h1>
       <ul>
-        <li>Finds pedestrian-friendly paaths in parks and nature reserves (use at your own risk)</li>
+        <li>Finds pedestrian-friendly paths in parks and nature reserves (use at your own risk)</li>
         <li>Click on paths to explore details</li>
       </ul>
       <MapContainer center={[40.7128, -74.006]} zoom={15} style={{ height: "80vh", width: "100%" }}>
