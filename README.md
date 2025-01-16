@@ -1,1 +1,1 @@
-> Global Running Segment Searcher
+> Finds pedestrian-friendly paths anywhere on the globe
