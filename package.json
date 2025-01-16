@@ -1,7 +1,7 @@
 {
-  "name": "running-segments-finder",
+  "name": "footpath-explorer",
   "version": "0.1.0",
-  "homepage": "https://timliang4.github.io/running_segment_searcher",
+  "homepage": "https://github.com/timliang4/Footpath-Explorer",
   "private": true,
   "dependencies": {
     "axios": "^1.7.9",
